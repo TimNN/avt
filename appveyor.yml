@@ -1,0 +1,4 @@
+test_script:
+  - cat foo || exit 0
+  - cat bar
+  - cat fib
